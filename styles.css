@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.card {
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    font-size: 24px;
+  }
+  
+  .card-title {
+    font-size: 18px;
+  }
+  
+  .card-text {
+    font-size: 14px;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-deck {
+    margin-bottom: 30px;
+  }
+  
